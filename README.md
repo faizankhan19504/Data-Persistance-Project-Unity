@@ -45,7 +45,7 @@ Assets/
 ### 📥 **Installation & Setup**
 + 1. **Clone or Download this repository:**
    ```bash
-     https://github.com/faizankhan19504/Junior-Unity-Project.git
+     https://github.com/faizankhan19504/Data-Persistance-Project-Unity.git
      
 2. **Open the project in Unity Hub (Recommended: Unity 6.0.62f1 LTS).**
 
