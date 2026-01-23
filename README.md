@@ -2,6 +2,8 @@
 + It is a classic arcade-style game, built in **Unity** using **C#**.  
 + This project was developed by following the Junior Programmer Pathway Course from Unity Learn.
 
+<img width="1004" height="564" alt="Snap1 0" src="https://github.com/user-attachments/assets/1ac9ca39-fd3e-4d95-b11e-95c8f5cc54cf" />
+
 ### 🚀 **Features**
 
 - 👨🍳 **Single-player Arcade Action gameplay** – Experience classic, fast-paced gameplay where the objective is to destroy bricks and maximize your score.
@@ -18,6 +20,8 @@
 - **Language:** C#  
 - **Assets:** Junior Programmer Pathway free assets and prefabs  
 - **IDE:** Visual Studio Code / Rider / Visual Studio
+
+<img width="999" height="562" alt="Snap2 0" src="https://github.com/user-attachments/assets/f5503a06-a279-4fcb-8bc2-737446b466f9" />
 
 ### 📂 **Project Structure**
 
@@ -68,4 +72,9 @@ Assets/
 ### 🙌 **Acknowledgements**
 + Developed by following Junior Programmer Pathway Course.
 + Free assets provided by Unity Learn.
+
+### 📜 **License**
++ This project is for educational purposes only. Assets and code are credited to UnityLearn.
++ Do not redistribute commercially without proper permission.
+
 
